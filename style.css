@@ -1,0 +1,32 @@
+.logo{
+    text-align: center;
+    margin-top: 12%; /* vertical-align:middle */
+}
+.main-search{
+    text-align: center;
+}
+.search-button{
+    margin:10px;
+}
+.info-bar{
+    display: grid;
+    grid-template-columns: 4fr 3fr 5fr;
+    grid-gap: 5px;
+}
+.p1{
+background-color: antiquewhite;
+}
+.p2{
+background-color: aquamarine;
+}
+.p3{
+background-color: gray;
+}
+.p1-list>li{
+list-style-type: none;
+text-align: center;
+}
+.footer{
+    margin-top: 25px;;
+    text-align: center;
+}
